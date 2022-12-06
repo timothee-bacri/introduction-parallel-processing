@@ -7,9 +7,9 @@ Norway.*
 *Correspondence to: <timot@bacri.eu>*
 
 This repository contains the code used for the presentation on December 6 2022 of the self selected topic of Timothée Bacri, during his PhD at the University of Bergen.
-The presentation was held physically, with a video recording the slides and the talk.
+The presentation was held physically, and the slides and talk were recorded.
 
-The slides can be with the `knitr` package using `R` from the file **fast_computing.Rmd** file, and the video of the presentation can be found at https://youtu.be/3wbqr1D04Bw.
+A PDF for the slides can be compiled with the `knitr` package using `R` from the file **fast_computing.Rmd** file, and the video of the presentation can be found at https://youtu.be/3wbqr1D04Bw.
 
 ## Author
 
