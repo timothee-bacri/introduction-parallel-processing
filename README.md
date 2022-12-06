@@ -1,7 +1,5 @@
-# Introduction to parallel processing, using R
-How to accelerate a program
-
-================
+Introduction to parallel processing, using R
+==============================
 
 *Contributors: Timothée Bacri<sup>†</sup> University of Bergen,
 Norway.*
@@ -15,13 +13,11 @@ The slides can be with the `knitr` package using `R` from the file **fast_comput
 
 ## Author
 
-**Timothée Bacri** - [holleland](https://github.com/timothee-bacri)
+**Timothée Bacri** - [timothee-bacri](https://github.com/timothee-bacri)
 
 ## License
 
 © 2020 Timothée Bacri
 
-The content of this project itself is licensed under the [Creative
-Commons Attribution-NonCommercial-NoDerivatives 4.0 International
-Licence](LICENCE_CC-BY-NC-ND-4.md), and the underlying source code is
+The content of this project itself is licensed under the [MIT License](LICENSE), and the underlying source code is
 licensed under the [GNU GPLv3 License](LICENSE_GNU.md).
