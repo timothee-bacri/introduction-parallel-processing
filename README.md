@@ -13,11 +13,11 @@ The video of the presentation can be found at https://youtu.be/3wbqr1D04Bw.
 
 ## Building / compiling the PDF slides
 
-You need to unzip [monitoring_progress_bar.zip](https://github.com/timothee-bacri/introduction-parallel-processing/blob/master/code%20and%20slides/monitoring_progress_bar.zip).
+You need to unzip [monitoring_progress_bar.zip](https://github.com/timothee-bacri/introduction-parallel-processing/blob/main/code%20and%20slides/monitoring_progress_bar.zip).
 The video was too heavy to upload on GitHub, so I had to compress it.
 
-A PDF for the slides can be compiled with the `knitr` and `rmarkdown` packages using `R` from the file [fast_computing.Rmd](https://github.com/timothee-bacri/introduction-parallel-processing/blob/master/code%20and%20slides/fast_computing.Rmd) file.
-It is advised to open the file [Self-selected topic.RProj](https://github.com/timothee-bacri/introduction-parallel-processing/blob/master/code%20and%20slides/Self-selected%20topic.RProj) to set the working directory automatically.
+A PDF for the slides can be compiled with the `knitr` and `rmarkdown` packages using `R` from the file [fast_computing.Rmd](https://github.com/timothee-bacri/introduction-parallel-processing/blob/main/code%20and%20slides/fast_computing.Rmd) file.
+It is advised to open the file [Self-selected topic.RProj](https://github.com/timothee-bacri/introduction-parallel-processing/blob/main/code%20and%20slides/Self-selected%20topic.RProj) to set the working directory automatically.
 
 The code on the slide **Race condition / concurrent writing** is cached because otherwise, it intentionally causes some errors and the user must click OK on the windows that pops up. Remove `cache=TRUE` or change it to `cache=FALSE` to compile these parts.
 
