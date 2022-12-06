@@ -4,7 +4,7 @@ Introduction to parallel processing, using R
 *Contributors: Timothée Bacri<sup>†</sup> University of Bergen,
 Norway.*
 
-*Correspondance to: <timot@bacri.eu>*
+*Correspondence to: <timot@bacri.eu>*
 
 This repository contains the code used for the presentation on December 6 2022 of the self selected topic of Timothée Bacri, during his PhD at the University of Bergen.
 The presentation was held physically, with a video recording the slides and the talk.
