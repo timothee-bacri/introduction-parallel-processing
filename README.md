@@ -13,7 +13,7 @@ The video of the presentation can be found at https://youtu.be/3wbqr1D04Bw.
 
 ## Building / compiling the PDF slides
 
-You need to unzip [monitoring_progress_bar.zip](https://github.com/timothee-bacri/introduction-parallel-processing/blob/main/code%20and%20slides/monitoring_progress_bar.zip).
+Before compiling, [monitoring_progress_bar.zip](https://github.com/timothee-bacri/introduction-parallel-processing/blob/main/code%20and%20slides/monitoring_progress_bar.zip) must be unzipped.
 The video was too heavy to upload on GitHub, so I had to compress it.
 
 A PDF for the slides can be compiled with the `knitr` and `rmarkdown` packages using `R` from the file [fast_computing.Rmd](https://github.com/timothee-bacri/introduction-parallel-processing/blob/main/code%20and%20slides/fast_computing.Rmd) file.
@@ -32,7 +32,7 @@ rmarkdown::render('fast_computing.Rmd',  encoding = 'UTF-8');
 
 ## License
 
-© 2020 Timothée Bacri
+© 2022 Timothée Bacri
 
 The content of this project itself is licensed under the [MIT License](LICENSE), and the underlying source code is
 licensed under the [GNU GPLv3 License](LICENSE_GNU.md).
