@@ -15,11 +15,11 @@ The slides can be with the `knitr` package using `R` from the file **fast_comput
 
 ## Author
 
-**Sondre Hølleland** - [holleland](https://github.com/holleland)
+**Timothée Bacri** - [holleland](https://github.com/timothee-bacri)
 
 ## License
 
-© 2020 Sondre Hølleland
+© 2020 Timothée Bacri
 
 The content of this project itself is licensed under the [Creative
 Commons Attribution-NonCommercial-NoDerivatives 4.0 International
