@@ -1,7 +1,7 @@
 Introduction to parallel processing, using R
 ==============================
 
-*Contributors: Timothée Bacri<sup>†</sup> University of Bergen,
+*Contributors: Timothée Bacri University of Bergen,
 Norway.*
 
 *Correspondence to: <timot@bacri.eu>*
@@ -31,8 +31,6 @@ rmarkdown::render('fast_computing.Rmd',  encoding = 'UTF-8');
 **Timothée Bacri** - [timothee-bacri](https://github.com/timothee-bacri)
 
 ## License
-
-© 2022 Timothée Bacri
 
 The content of this project itself is licensed under the [MIT License](LICENSE), and the underlying source code is
 licensed under the [GNU GPLv3 License](LICENSE_GNU.md).
